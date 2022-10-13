@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @StandyBee
+- 👋 Hi, I’m Anton
 - 👀 I’m interested in developing on PHP
 - 🌱 I’m currently learning PHP courses on Hexlet
-- 📫 How to reach me @StandbyUser (telegram)
+- 📫 How to reach me @Anton_Fisak (telegram)
 
 <!---
 StandyBee/StandyBee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
